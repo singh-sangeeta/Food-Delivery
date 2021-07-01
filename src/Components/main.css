@@ -1,0 +1,99 @@
+.Main {
+    margin: 2px;
+    padding: 2px;
+    width: 98%;
+  }
+  .first {
+    margin: 28px;
+    font-size: 28px;
+  }
+  .second {
+    margin: 30px;
+    font-size: 20px;
+  }
+  .one {
+    display: flex;
+    margin-top: 2px;
+    margin-left: 20px;
+    margin-right: 0;
+    margin-bottom: 20px;
+    width: 98%;
+    padding: 0;
+    height: 100%;
+  }
+  .third {
+    display: flex;
+    margin: 10px;
+    position: relative;
+    width: 30%;
+  }
+  .third img {
+    width: 100%;
+    padding: 1px;
+    overflow: hidden;
+    height: 100%;
+    align-items: center;
+    display: flex;
+  }
+  .txt {
+    color: white;
+    margin: 10px;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    align-items: center;
+  }
+  
+  .main-container{
+    width: 98%;
+    display: flex;
+}
+.main{
+    border: blanchedalmond;
+    box-shadow: black;
+    border-radius: 5px;
+}
+.container{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    height: 200px;
+    margin: 40px;
+    padding: 2px;
+}
+
+.Item-inside:hover img{
+  transform: scale(1.1);
+}
+.container img{
+    width: 100%;
+    padding: 1px;
+    overflow: hidden;
+    height: 100%;
+    align-items: center;
+    display: flex;
+}
+.text{
+    align-items: center;
+}
+.text p{
+    align-items: center;
+    align-items: center;
+    display: flex;
+    margin-left: 35px;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+
+}
+.container:hover {
+    background-color: #010e0c;
+    outline: none;
+    border: none;
+  }
+  
+  .text:hover {
+    background-color:white;
+    color: black;
+    outline: none;
+  }

@@ -1,0 +1,7 @@
+.App{
+  background-image: url("background.jpg");
+  height: 92vh;
+  background-blend-mode:darken;
+  background-color: rgba(0,0,0,0.7);
+  background-position: fixed;
+}
